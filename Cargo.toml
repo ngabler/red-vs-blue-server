@@ -19,7 +19,7 @@ log = "*"
 env_logger = "*"
 console-subscriber = "*"
 crossbeam = "*"
-worker-kv = "0.6"
+worker-kv = "*"
 
 [features]
 default = ["rt-multi-thread"]
